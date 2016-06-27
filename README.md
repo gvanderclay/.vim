@@ -1,2 +1,5 @@
 # .vim
-my vim config.
+Remember to do this
+
+ln -s .vim/.vimrc .vimrc
+
